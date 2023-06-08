@@ -1,0 +1,39 @@
+.top-actions {
+    background-color: rosybrown;
+}
+
+.email-wrapper {
+    display: flex;
+}
+
+.email-detail {
+    background-color: rgb(185, 137, 233);
+
+}
+
+.email-box {
+    background-color: aquamarine;
+}
+
+.left-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 40vw;
+}
+
+.email-detail {
+    display: none;
+}
+
+.single-email {
+    display: flex;
+    background-color: goldenrod;
+    padding: 10px;
+    column-gap: 60px;
+    cursor: pointer;
+}
+
+.profile img {
+    border-radius: 100px;
+    width: 60px;
+}
